@@ -6,12 +6,12 @@ package modul_2.exr4;
  */
 public class NonVoidMethod {
     public String getNama() {
-        String nama = "Ezaaaaa";
+        String nama = "Irfan";
         return nama;
     }
 
     public String getNIM() {
-        String nim = "L200183178";
+        String nim = "L200184165";
         return nim;
     }
 
